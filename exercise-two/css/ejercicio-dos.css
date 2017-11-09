@@ -1,0 +1,15 @@
+.yellow, .black {
+  height: 100px;
+  width: 200px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.yellow {
+  background: #f9cc5f;
+}
+
+.black {
+  background: #2b2b2b;
+  color: #ffffff;
+}
